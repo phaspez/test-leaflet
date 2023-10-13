@@ -74,7 +74,7 @@ function LocationTypeSelector({ updateLocations }: LocationsUpdater) {
     setSelected(newSelected);
     console.log(selected);
 
-    let newLocations = locations.filter((loc, index) => selected[index]);
+    let newLocations = locations.filter((loc, index) => selected[index] && loc);
     updateLocations(newLocations);
   };
 
