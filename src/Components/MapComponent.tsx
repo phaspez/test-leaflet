@@ -3,6 +3,7 @@ import { LatLng } from "leaflet";
 import { Icon } from "leaflet";
 
 import "leaflet/dist/leaflet.css";
+import iconPng from "../assets/location.png";
 
 export interface LocationDetails {
   locationData: any;
@@ -31,7 +32,7 @@ function MapComponent({ locationData }: LocationDetails) {
   }
 
   const customIcon = new Icon({
-    iconUrl: "src/assets/location.png",
+    iconUrl: iconPng,
     iconSize: [38, 38],
   });
 
