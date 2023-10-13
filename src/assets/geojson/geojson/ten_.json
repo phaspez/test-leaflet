@@ -1,0 +1,2361 @@
+{
+  "type": "FeatureCollection",
+  "name": "ten_",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB3",
+        "Text": "\\U+0111á An Lão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.667596031896196, 11.07149884618465, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB4",
+        "Text": "c\\U+1EE5m bãi C\\U+1EA1n Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.783894583842894, 10.492321974318831, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB5",
+        "Text": "bãi c\\U+1EA1n Phúc Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.878936544915206, 7.880434294096122, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB6",
+        "Text": "c\\U+1EE5m bãi C\\U+1EA1n Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.573814807399302, 10.485719466350639, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB7",
+        "Text": "\\U+0110á L\\U+1ED3i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.759269941401598, 16.25326067629959, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB8",
+        "Text": "\\U+0111á Bông Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.434440705689397, 15.97777156366727, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB9",
+        "Text": "\\U+0111á ng\\U+1EA7m Hac \\U+0110i E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.365050311668597, 5.755196423957165, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBA",
+        "Text": "bãi c\\U+1EA1n Fran Sip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4432819053674, 5.855204589687653, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBB",
+        "Text": "\\U+0111á ng\\U+1EA7m Tríp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.433735935807206, 5.457907270022529, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBC",
+        "Text": "c\\U+1EE5m Thám Hi\\U+1EC3m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6731445720186, 8.157460020761659, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBD",
+        "Text": "\\U+0110á \\U+0110ông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.541135356657307, 8.791063620630242, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBE",
+        "Text": "bãi \\U+0111á T\\U+1ED1c Tan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.878772206157805, 8.778546140714649, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBF",
+        "Text": "\\U+0111á Xu Bi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.024950063642095, 10.890699940991359, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC0",
+        "Text": "bãi \\U+0111á Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.172448312081201, 8.870622467122686, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC1",
+        "Text": "bãi \\U+0110á B\\U+1EAFc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.421159240067894, 17.05672645148325, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC2",
+        "Text": "\\U+0111á Chim Én"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.940927335762694, 16.304090514387489, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC3",
+        "Text": "bãi ng\\U+1EA7m Chim Bi\\U+1EC3n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.866011324316503, 8.099180832946416, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC4",
+        "Text": "Bãi \\U+0110inh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.510467188816605, 7.556605241239642, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC5",
+        "Text": "c\\U+1EE5m Bình Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.747896170533295, 10.662588538496021, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC6",
+        "Text": "\\U+0111á L\\U+1EDBn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.811528681224502, 10.049908127967459, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC7",
+        "Text": "bãi \\U+0111á Thuy\\U+1EC1n Chài"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.196156086238901, 8.185529689512, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC8",
+        "Text": "bãi c\\U+1EA1n B\\U+1EAFc Lu Cô Ni A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.270231443744507, 5.613107984062661, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC9",
+        "Text": "\\U+0110á Ch\\U+1EEF Th\\U+1EADp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.859594832833395, 9.529610662777561, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCA",
+        "Text": "\\U+0110á L\\U+1ED3i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.524584408462005, 16.194705786493959, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCB",
+        "Text": "bãi Sa Bin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.432473032735302, 9.698416287445681, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCC",
+        "Text": "\\U+0110á Sâu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.507530995400302, 8.120735990049196, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCD",
+        "Text": "bãi c\\U+1EA1n Ki\\U+1EC7u Ng\\U+1EF1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.230449033903398, 7.909745900869173, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCE",
+        "Text": "\\U+0111á T\\U+01B0 Ngh\\U+0129a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.311540327659401, 9.987203635769706, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCF",
+        "Text": "\\U+0111á Công \\U+0110o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.141845112838595, 8.3328092351147, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD0",
+        "Text": "\\U+0111á ng\\U+1EA7m Con Nen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.509024622341997, 5.095967188311259, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD1",
+        "Text": "bãi c\\U+1EA1n T\\U+01B0 Chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.673030401942697, 7.515133747078525, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD2",
+        "Text": "\\U+0111á ng\\U+1EA7m He Ran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.525530730974495, 4.981481622556988, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD3",
+        "Text": "\\U+0111á K\\U+1EF3 Vân"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.854065091185404, 7.989603465529491, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD4",
+        "Text": "\\U+0110á Lát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.637762576911996, 8.636030749390974, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD5",
+        "Text": "bãi Núi C\\U+1EA7u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.512570598325695, 11.3252020095566, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD6",
+        "Text": "bãi C\\U+1ECF Rong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.281827786450506, 11.40958844980665, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD7",
+        "Text": "bãi c\\U+1EA1n Qu\\U+1EBF \\U+0110\\U+01B0\\U+1EDDng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.373103186376298, 7.774002153806149, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD8",
+        "Text": "bãi c\\U+1EA1n Phúc T\\U+1EA7n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.450653173593693, 8.200964756025179, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD9",
+        "Text": "bãi C\\U+1ECF Rong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.332246517895499, 11.505052491168691, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDA",
+        "Text": "bãi c\\U+1EA1n Phúc T\\U+1EA7n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.381763522755193, 8.087969370159305, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDB",
+        "Text": "\\U+0111á Su\\U+1ED1i Ng\\U+1ECDc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.370662544076495, 9.403700946063934, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDC",
+        "Text": "\\U+0111á Núi Le"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.128818796132506, 8.704932781462746, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDD",
+        "Text": "c\\U+1EE5m \\U+0110á B\\U+1EAFc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.570536635511502, 10.78650651473003, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDE",
+        "Text": "\\U+0111á Tr\\U+01B0\\U+01A1ng Ngh\\U+0129a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.157690950372896, 17.021145692855029, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDF",
+        "Text": "bãi H\\U+1EA3i Sâm - C\\U+1EE5m H\\U+1EA3i Sâm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.6828170417526, 10.5115665076901, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE0",
+        "Text": "bãi T\\U+1ED5 Mu\\U+1ED7i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.143479795373096, 11.455586700442391, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE1",
+        "Text": "\\U+0111á Su\\U+1ED1i Cát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.701052674121499, 7.588205360740643, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE2",
+        "Text": "bãi c\\U+1EA1n Nam Lu Cô Ni A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.563631929057806, 5.122892515014278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE3",
+        "Text": "\\U+0111á Ba Kè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.647887820514001, 7.976136042000881, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE4",
+        "Text": "\\U+0111á Long H\\U+1EA3i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.2276820560012, 10.170829054456449, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE5",
+        "Text": "\\U+0111\\U+1EA3o Phan Vinh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.578084511320597, 8.924834531330621, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE6",
+        "Text": "\\U+0111á Ba \\U+0110\\U+1EA7u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.591211592589204, 9.994968978106813, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE7",
+        "Text": "\\U+0111á Hoa Lau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.766823825701493, 7.337478478361011, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE8",
+        "Text": "bãi Tr\\U+0103ng Khuy\\U+1EBFt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.184128670817003, 8.917525755458945, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE9",
+        "Text": "\\U+0111á Én \\U+0110\\U+1EA5t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.639543766081601, 10.33638994315289, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEA",
+        "Text": "bãi \\U+0110\\U+1ED3i M\\U+1ED3i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.598456466674506, 9.028374710887141, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEB",
+        "Text": "\\U+0111á L\\U+1EA1c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.2254904768172, 10.152932222076229, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEC",
+        "Text": "bãi c\\U+1EA1n Lý S\\U+01A1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.036418036904493, 15.277078360063539, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CED",
+        "Text": "bãi \\U+0110\\U+01B0\\U+1EDDng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.593045562201596, 10.96140750325725, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEE",
+        "Text": "bãi Kim Ph\\U+1EE5ng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.588929708218501, 7.648482094643716, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEF",
+        "Text": "bãi c\\U+1EA1n Ki\\U+1EC7u Ng\\U+1EF1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.249344188875696, 7.683419381310489, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF0",
+        "Text": "bãi \\U+0110inh Ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.620176686737096, 11.471536742902201, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF1",
+        "Text": "bãi Su\\U+1ED1i Ngà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.8657185725136, 9.32803153046253, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF2",
+        "Text": "bãi \\U+0110\\U+1EA1i N\\U+1ED9i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.607214861160401, 7.591801413454239, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF3",
+        "Text": "\\U+0111á Sác L\\U+1ED1t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.525400605061506, 6.909817589054274, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF4",
+        "Text": "\\U+0111á Tiên N\\U+1EEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.588556588364696, 8.836179847378377, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF5",
+        "Text": "c\\U+1EE5m H\\U+1ED3 Tràm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.096278268573499, 10.597980298475751, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF6",
+        "Text": "bãi c\\U+1EA1n Huy\\U+1EC1n Trân"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.507059258243999, 7.987901242931779, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF7",
+        "Text": "\\U+0111á én Ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.081748574166397, 8.071152202934767, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF8",
+        "Text": "bãi c\\U+1EA1n Ki\\U+1EC7u Ng\\U+1EF1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0165385866527, 7.692022107676226, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF9",
+        "Text": "\\U+0111á Cá Nhám"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.830849426979896, 10.83253869785147, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFA",
+        "Text": "\\U+0111á B\\U+1EAFc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.351733841380707, 11.458642762058309, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFB",
+        "Text": "\\U+0111á An Nh\\U+01A1n B\\U+1EAFc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.490806920419502, 10.75955653995811, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFC",
+        "Text": "bãi V\\U+1ECDng C\\U+1EA3nh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.659894728537694, 7.790083040386355, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFD",
+        "Text": "bãi c\\U+1EA1n V\\U+0169ng Mây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.453761422268201, 7.831031902142153, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFE",
+        "Text": "\\U+0111á B\\U+1ED3 \\U+0110\\U+1EC1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.3033335621204, 9.514347525787569, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFF",
+        "Text": "\\U+0111á Bình Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.276436273534799, 9.906455001087478, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D00",
+        "Text": "Bãi \\U+0110\\U+1EA5t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.705138211658294, 7.709860579489495, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D01",
+        "Text": "\\U+0111á Ken Nan Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.438466206562794, 9.875455458927018, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D02",
+        "Text": "\\U+0111á Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.254082895098506, 11.38020779098734, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D03",
+        "Text": "bãi Tr\\U+01B0\\U+1EDDng Ti\\U+1EC1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.724330966273996, 7.86906603608664, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D04",
+        "Text": "bãi V\\U+0169 Tích"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.6750085928945, 7.826116380044016, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D05",
+        "Text": "bãi Ng\\U+1EF1 Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.480863116282904, 7.678641803137047, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D06",
+        "Text": "bãi Cái Mép"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.859943200849699, 9.459997601312269, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D07",
+        "Text": "\\U+0111á V\\U+0129nh H\\U+1EA3o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.302857304278405, 11.085220899598889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D08",
+        "Text": "\\U+0111á Long \\U+0110i\\U+1EC1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.075259357106901, 9.560731505930809, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D09",
+        "Text": "\\U+0111á Bàn Than"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.302051643535705, 10.401496976903699, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0A",
+        "Text": "c\\U+1EE5m Bãi C\\U+1EA1n Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.469291077630501, 10.56171926223117, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0B",
+        "Text": "\\U+0111á Phúc S\\U+1EF9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.329295572662303, 9.791686300626438, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0C",
+        "Text": "\\U+0111á Cô Lin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.199482273402396, 9.767575099210463, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0D",
+        "Text": "\\U+0111á Bãi Khung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.486275320987104, 9.958432699117099, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0E",
+        "Text": "\\U+0111á Núi Th\\U+1ECB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.523520692053097, 10.40231262890542, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0F",
+        "Text": "\\U+0111á Cái Vung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.102974733952905, 11.02791143469795, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D10",
+        "Text": "\\U+0111á V\\U+0103n Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.367633046046393, 9.827241168433673, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D11",
+        "Text": "bãi c\\U+1EA1n Ki\\U+1EC7u Ng\\U+1EF1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.031789098523902, 7.585367301176896, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D12",
+        "Text": "bãi ng\\U+1EA7m M\\U+1EF9 H\\U+1EA3i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.368557829798803, 8.50393342366414, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D13",
+        "Text": "\\U+0111á Bình S\\U+01A1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.450370285834893, 9.930682914435883, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D14",
+        "Text": "\\U+0111á \\U+0110\\U+1EC1n Cây C\\U+1ECF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.551094690825096, 10.226389399563971, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D15",
+        "Text": "\\U+0111á Ga Ven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.157754593336904, 10.22435641142877, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D16",
+        "Text": "bãi Lo\\U+1EA1i Ta Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.235157396788694, 10.69466633716452, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D17",
+        "Text": "\\U+0111á L\\U+1EE5c Giang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.292789127808305, 10.245567466713791, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D18",
+        "Text": "\\U+0111á Giò Giã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.795015111341002, 10.78398688338131, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D19",
+        "Text": "\\U+0111á Tây Nam "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4701739917883, 10.28643288419013, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1A",
+        "Text": "\\U+0111á Ninh C\\U+01A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.606547636202606, 10.48725282877426, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1B",
+        "Text": "\\U+0111á An Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5733833021539, 9.898387352397396, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1C",
+        "Text": "\\U+0111á L\\U+1EA1c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.978642494921104, 10.02295724862803, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1D",
+        "Text": "\\U+0111á Trâm \\U+0110\\U+1EE9c B\\U+1EAFc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.222561187402306, 11.052921575923159, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1E",
+        "Text": "bãi \\U+0111á Tri L\\U+1EC5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.081171013697897, 11.05729569090051, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1F",
+        "Text": "\\U+0111á H\\U+1EE3p Kim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.979594431291005, 10.801463695422351, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D20",
+        "Text": "\\U+0111á An Nh\\U+01A1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.462773462488599, 10.707347191546321, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D21",
+        "Text": "\\U+0111á Len \\U+0110ao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.343604631781602, 9.762792278475636, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D22",
+        "Text": "bãi \\U+0110\\U+01B0\\U+1EDDng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.676934212113295, 11.0059828895408, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D23",
+        "Text": "\\U+0111\\U+1EA3o Tr\\U+01B0\\U+1EDDng Sa \\U+0110ông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.227278923901295, 8.926833906203267, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D24",
+        "Text": "\\U+0111\\U+1EA3o V\\U+0129nh Vi\\U+1EC5n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.725423388318902, 10.707289693326731, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D25",
+        "Text": "bãi Ráng Chi\\U+1EC1u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.463077327772396, 7.726962670517067, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D26",
+        "Text": "\\U+0111á \\U+0110\\U+1ECBnh T\\U+01B0\\U+1EDDng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.738667837318104, 10.450635816476749, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D27",
+        "Text": "\\U+0111á Núi Tr\\U+1EDDi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.119944482887902, 9.335081385876764, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D28",
+        "Text": "\\U+0111á Ph\\U+1EADt T\\U+1EF1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.082362357503399, 10.11202231881361, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D29",
+        "Text": "\\U+0111á M\\U+1ECF V\\U+1ECBt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.363395467097106, 10.8629416577344, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2A",
+        "Text": "\\U+0111á An Nh\\U+01A1n Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.421703662816398, 10.68010339471914, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2B",
+        "Text": "\\U+0111á Triêm \\U+0110\\U+1EE9c - C\\U+1EE5m H\\U+1EA3i Sâm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.625901119371804, 10.549322860012561, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2C",
+        "Text": "bãi ng\\U+1EA7m \\U+0110\\U+1ED3ng Cam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.790322847341002, 10.91291938663119, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2D",
+        "Text": "bãi C\\U+1ECF Mây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.782854948801699, 9.728104397389151, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2E",
+        "Text": "c\\U+1EE5m H\\U+1ED3 Tràm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.159217654389806, 10.78151824132472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2F",
+        "Text": "\\U+0111á Ngh\\U+0129a Hành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.191497539783398, 9.848051044680711, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D30",
+        "Text": "\\U+0111á Trung L\\U+1EC5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.358091486638301, 10.97911523800115, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D31",
+        "Text": "\\U+0111á V\\U+1ECB Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.544880060326193, 9.841300251841247, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D32",
+        "Text": "bãi \\U+0111á Tri L\\U+1EC5 \\U+0110ông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.092218656483297, 11.08549477519963, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D33",
+        "Text": "\\U+0111á Nh\\U+1ECF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.958033153960301, 9.956849488357497, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D34",
+        "Text": "\\U+0111á Trà Khúc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.284826224204494, 9.679655975469325, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D35",
+        "Text": "\\U+0111á Tam Trung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.171108874326293, 9.820190369911446, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D36",
+        "Text": "\\U+0111\\U+1EA3o An Bang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.864387884692206, 7.861559474037814, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D37",
+        "Text": "\\U+0111á Châu Viên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.771094335112593, 8.833664959515167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D38",
+        "Text": "\\U+0111\\U+1EA3o S\\U+01A1n Ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.4454025829709, 10.34674144310493, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D39",
+        "Text": "\\U+0111\\U+1EA3o Ba \\U+0110ình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.300443008562397, 10.33919589153774, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3A",
+        "Text": "\\U+0111\\U+1EA3o Nam Y\\U+1EBFt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.327353340734504, 10.151945974814, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3B",
+        "Text": "c\\U+1EE5m Nam Y\\U+1EBFt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.344791920530696, 10.26136300190281, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3C",
+        "Text": "\\U+0111\\U+1EA3o Bình Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.7590985483764, 10.82009243096509, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3D",
+        "Text": "\\U+0111\\U+1EA3o B\\U+1EBFn L\\U+1EA1c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.942516823177399, 11.052910284265961, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3E",
+        "Text": "\\U+0111\\U+1EA3o Song T\\U+1EED \\U+0110ông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.344483368523399, 11.40217285154189, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3F",
+        "Text": "\\U+0111\\U+1EA3o Song T\\U+1EED Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.163854487702807, 11.46261511098926, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D40",
+        "Text": "\\U+0111\\U+1EA3o Loai Ta Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.279969391447594, 10.741172822850441, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D41",
+        "Text": "\\U+0111\\U+1EA3o Loai Ta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.379181856303603, 10.642501791062431, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D42",
+        "Text": "\\U+0111á V\\U+0129nh H\\U+1EE3p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.942989918525598, 11.007947086242099, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D43",
+        "Text": "hòn Tháp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.667281840238303, 16.5644032433737, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D44",
+        "Text": "bãi Ng\\U+1EA7m Óc Tai Voi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.130094345450004, 16.081067107820019, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D45",
+        "Text": "\\U+0111\\U+1EA3o Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.309712057570806, 16.96309352930432, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D46",
+        "Text": "\\U+0111\\U+1EA3o \\U+0110á"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.309692138304996, 16.799886197867352, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D47",
+        "Text": "\\U+0111\\U+1EA3o Hoàng Sa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.599867063549198, 16.505696210553982, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D48",
+        "Text": "bãi Bình S\\U+01A1n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.141797400217996, 16.735842482366881, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D49",
+        "Text": "bãi C\\U+1EA1n Gò N\\U+1ED5i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.707093968344694, 16.76503684695885, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4A",
+        "Text": "bãi Ng\\U+1EA7m M\\U+1EAFc Léc Phi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.086122274755098, 15.847230759215631, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4B",
+        "Text": "Q u \\U+1EA7 n  \\U+0111 \\U+1EA3 o  H o à n g  S a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.905668927968506, 16.45264014949889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4C",
+        "Text": "(Tp.Ðà N\\U+1EB5ng-Vi\\U+1EC7t Nam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.958497521655602, 16.410729285040691, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4D",
+        "Text": "Q U \\U+1EA6 N  \\U+0110 \\U+1EA2 O  T R \\U+01AF \\U+1EDC N G  S A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.696974523244194, 10.21130612808888, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4E",
+        "Text": "(T\\U+1EC9nh Khánh Hòa-Vi\\U+1EC7t Nam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.745008625444996, 10.171383544899649, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4F",
+        "Text": "h\\U+1ED3 Sông S\\U+1EAFt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.901620860096799, 11.839995619838019, 0.0]
+      }
+    }
+  ]
+}

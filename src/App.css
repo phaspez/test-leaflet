@@ -1,0 +1,5 @@
+/* size of map ctn */
+.leaflet-container {
+  width: 70%;
+  height: 90vh;
+}

@@ -1,0 +1,2989 @@
+{
+  "type": "FeatureCollection",
+  "name": "ten_",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB3",
+        "Text": "đá An Lão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6675960318962,
+          11.07149884618465,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB4",
+        "Text": "cụm bãi Cạn Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7838945838429,
+          10.49232197431883,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB5",
+        "Text": "bãi cạn Phúc Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.8789365449152,
+          7.880434294096122,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB6",
+        "Text": "cụm bãi Cạn Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5738148073993,
+          10.48571946635064,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB7",
+        "Text": "Đá Lồi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7592699414016,
+          16.25326067629959,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB8",
+        "Text": "đá Bông Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4344407056894,
+          15.97777156366727,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CB9",
+        "Text": "đá ngầm Hac Đi E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3650503116686,
+          5.755196423957165,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBA",
+        "Text": "bãi cạn Fran Sip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4432819053674,
+          5.855204589687653,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBB",
+        "Text": "đá ngầm Tríp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4337359358072,
+          5.457907270022529,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBC",
+        "Text": "cụm Thám Hiểm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6731445720186,
+          8.15746002076166,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBD",
+        "Text": "Đá Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5411353566573,
+          8.791063620630242,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBE",
+        "Text": "bãi đá Tốc Tan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8787722061578,
+          8.77854614071465,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CBF",
+        "Text": "đá Xu Bi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0249500636421,
+          10.89069994099136,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC0",
+        "Text": "bãi đá Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.1724483120812,
+          8.870622467122686,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC1",
+        "Text": "bãi Đá Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4211592400679,
+          17.05672645148325,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC2",
+        "Text": "đá Chim Én"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.9409273357627,
+          16.30409051438749,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC3",
+        "Text": "bãi ngầm Chim Biển"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.8660113243165,
+          8.099180832946416,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC4",
+        "Text": "Bãi Đinh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5104671888166,
+          7.556605241239642,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC5",
+        "Text": "cụm Bình Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7478961705333,
+          10.66258853849602,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC6",
+        "Text": "đá Lớn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8115286812245,
+          10.04990812796746,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC7",
+        "Text": "bãi đá Thuyền Chài"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1961560862389,
+          8.185529689512,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC8",
+        "Text": "bãi cạn Bắc Lu Cô Ni A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.2702314437445,
+          5.613107984062661,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CC9",
+        "Text": "Đá Chữ Thập"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.8595948328334,
+          9.52961066277756,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCA",
+        "Text": "Đá Lồi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.524584408462,
+          16.19470578649396,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCB",
+        "Text": "bãi Sa Bin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4324730327353,
+          9.698416287445681,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCC",
+        "Text": "Đá Sâu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5075309954003,
+          8.120735990049196,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCD",
+        "Text": "bãi cạn Kiệu Ngựa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2304490339034,
+          7.909745900869173,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCE",
+        "Text": "đá Tư Nghĩa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3115403276594,
+          9.987203635769706,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CCF",
+        "Text": "đá Công Đo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1418451128386,
+          8.3328092351147,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD0",
+        "Text": "đá ngầm Con Nen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.509024622342,
+          5.095967188311259,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD1",
+        "Text": "bãi cạn Tư Chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6730304019427,
+          7.515133747078525,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD2",
+        "Text": "đá ngầm He Ran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5255307309745,
+          4.981481622556988,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD3",
+        "Text": "đá Kỳ Vân"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8540650911854,
+          7.989603465529491,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD4",
+        "Text": "Đá Lát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.637762576912,
+          8.636030749390974,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD5",
+        "Text": "bãi Núi Cầu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5125705983257,
+          11.3252020095566,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD6",
+        "Text": "bãi Cỏ Rong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2818277864505,
+          11.40958844980665,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD7",
+        "Text": "bãi cạn Quế Đường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3731031863763,
+          7.774002153806149,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD8",
+        "Text": "bãi cạn Phúc Tần"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4506531735937,
+          8.20096475602518,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CD9",
+        "Text": "bãi Cỏ Rong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3322465178955,
+          11.50505249116869,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDA",
+        "Text": "bãi cạn Phúc Tần"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3817635227552,
+          8.087969370159305,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDB",
+        "Text": "đá Suối Ngọc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3706625440765,
+          9.403700946063934,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDC",
+        "Text": "đá Núi Le"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1288187961325,
+          8.704932781462746,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDD",
+        "Text": "cụm Đá Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5705366355115,
+          10.78650651473003,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDE",
+        "Text": "đá Trương Nghĩa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.1576909503729,
+          17.02114569285503,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CDF",
+        "Text": "bãi Hải Sâm - Cụm Hải Sâm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6828170417526,
+          10.5115665076901,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE0",
+        "Text": "bãi Tổ Muỗi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1434797953731,
+          11.45558670044239,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE1",
+        "Text": "đá Suối Cát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7010526741215,
+          7.588205360740643,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE2",
+        "Text": "bãi cạn Nam Lu Cô Ni A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5636319290578,
+          5.122892515014278,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE3",
+        "Text": "đá Ba Kè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.647887820514,
+          7.976136042000881,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE4",
+        "Text": "đá Long Hải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2276820560012,
+          10.17082905445645,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE5",
+        "Text": "đảo Phan Vinh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5780845113206,
+          8.924834531330621,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE6",
+        "Text": "đá Ba Đầu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5912115925892,
+          9.994968978106813,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE7",
+        "Text": "đá Hoa Lau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7668238257015,
+          7.337478478361011,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE8",
+        "Text": "bãi Trăng Khuyết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.184128670817,
+          8.917525755458945,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CE9",
+        "Text": "đá Én Đất"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6395437660816,
+          10.33638994315289,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEA",
+        "Text": "bãi Đồi Mồi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5984564666745,
+          9.02837471088714,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEB",
+        "Text": "đá Lạc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2254904768172,
+          10.15293222207623,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEC",
+        "Text": "bãi cạn Lý Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.0364180369045,
+          15.27707836006354,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CED",
+        "Text": "bãi Đường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5930455622016,
+          10.96140750325725,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEE",
+        "Text": "bãi Kim Phụng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5889297082185,
+          7.648482094643716,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CEF",
+        "Text": "bãi cạn Kiệu Ngựa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2493441888757,
+          7.683419381310489,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF0",
+        "Text": "bãi Đinh Ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6201766867371,
+          11.4715367429022,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF1",
+        "Text": "bãi Suối Ngà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8657185725136,
+          9.32803153046253,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF2",
+        "Text": "bãi Đại Nội"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6072148611604,
+          7.591801413454239,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF3",
+        "Text": "đá Sác Lốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5254006050615,
+          6.909817589054274,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF4",
+        "Text": "đá Tiên Nữ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5885565883647,
+          8.836179847378377,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF5",
+        "Text": "cụm Hồ Tràm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0962782685735,
+          10.59798029847575,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF6",
+        "Text": "bãi cạn Huyền Trân"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.507059258244,
+          7.987901242931779,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF7",
+        "Text": "đá én Ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0817485741664,
+          8.071152202934767,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF8",
+        "Text": "bãi cạn Kiệu Ngựa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0165385866527,
+          7.692022107676226,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CF9",
+        "Text": "đá Cá Nhám"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8308494269799,
+          10.83253869785147,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFA",
+        "Text": "đá Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3517338413807,
+          11.45864276205831,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFB",
+        "Text": "đá An Nhơn Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4908069204195,
+          10.75955653995811,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFC",
+        "Text": "bãi Vọng Cảnh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6598947285377,
+          7.790083040386355,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFD",
+        "Text": "bãi cạn Vũng Mây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4537614222682,
+          7.831031902142153,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFE",
+        "Text": "đá Bồ Đề"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3033335621204,
+          9.514347525787569,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1CFF",
+        "Text": "đá Bình Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2764362735348,
+          9.906455001087478,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D00",
+        "Text": "Bãi Đất"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.7051382116583,
+          7.709860579489495,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D01",
+        "Text": "đá Ken Nan Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4384662065628,
+          9.875455458927018,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D02",
+        "Text": "đá Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2540828950985,
+          11.38020779098734,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D03",
+        "Text": "bãi Trường Tiền"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.724330966274,
+          7.86906603608664,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D04",
+        "Text": "bãi Vũ Tích"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.6750085928945,
+          7.826116380044016,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D05",
+        "Text": "bãi Ngự Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4808631162829,
+          7.678641803137047,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D06",
+        "Text": "bãi Cái Mép"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8599432008497,
+          9.459997601312269,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D07",
+        "Text": "đá Vĩnh Hảo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3028573042784,
+          11.08522089959889,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D08",
+        "Text": "đá Long Điền"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0752593571069,
+          9.560731505930809,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D09",
+        "Text": "đá Bàn Than"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3020516435357,
+          10.4014969769037,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0A",
+        "Text": "cụm Bãi Cạn Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4692910776305,
+          10.56171926223117,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0B",
+        "Text": "đá Phúc Sỹ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3292955726623,
+          9.791686300626438,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0C",
+        "Text": "đá Cô Lin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1994822734024,
+          9.767575099210463,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0D",
+        "Text": "đá Bãi Khung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4862753209871,
+          9.958432699117099,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0E",
+        "Text": "đá Núi Thị"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5235206920531,
+          10.40231262890542,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D0F",
+        "Text": "đá Cái Vung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1029747339529,
+          11.02791143469795,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D10",
+        "Text": "đá Văn Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3676330460464,
+          9.827241168433673,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D11",
+        "Text": "bãi cạn Kiệu Ngựa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0317890985239,
+          7.585367301176896,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D12",
+        "Text": "bãi ngầm Mỹ Hải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.3685578297988,
+          8.50393342366414,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D13",
+        "Text": "đá Bình Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4503702858349,
+          9.930682914435883,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D14",
+        "Text": "đá Đền Cây Cỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5510946908251,
+          10.22638939956397,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D15",
+        "Text": "đá Ga Ven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1577545933369,
+          10.22435641142877,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D16",
+        "Text": "bãi Loại Ta Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2351573967887,
+          10.69466633716452,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D17",
+        "Text": "đá Lục Giang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2927891278083,
+          10.24556746671379,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D18",
+        "Text": "đá Giò Giã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.795015111341,
+          10.78398688338131,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D19",
+        "Text": "đá Tây Nam "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4701739917883,
+          10.28643288419013,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1A",
+        "Text": "đá Ninh Cơ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6065476362026,
+          10.48725282877426,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1B",
+        "Text": "đá An Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5733833021539,
+          9.898387352397396,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1C",
+        "Text": "đá Lạc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9786424949211,
+          10.02295724862803,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1D",
+        "Text": "đá Trâm Đức Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2225611874023,
+          11.05292157592316,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1E",
+        "Text": "bãi đá Tri Lễ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0811710136979,
+          11.05729569090051,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D1F",
+        "Text": "đá Hợp Kim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.979594431291,
+          10.80146369542235,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D20",
+        "Text": "đá An Nhơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4627734624886,
+          10.70734719154632,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D21",
+        "Text": "đá Len Đao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3436046317816,
+          9.762792278475636,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D22",
+        "Text": "bãi Đường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6769342121133,
+          11.0059828895408,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D23",
+        "Text": "đảo Trường Sa Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.2272789239013,
+          8.926833906203267,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D24",
+        "Text": "đảo Vĩnh Viễn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7254233883189,
+          10.70728969332673,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D25",
+        "Text": "bãi Ráng Chiều"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4630773277724,
+          7.726962670517067,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D26",
+        "Text": "đá Định Tường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7386678373181,
+          10.45063581647675,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D27",
+        "Text": "đá Núi Trời"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1199444828879,
+          9.335081385876764,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D28",
+        "Text": "đá Phật Tự"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0823623575034,
+          10.11202231881361,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D29",
+        "Text": "đá Mỏ Vịt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3633954670971,
+          10.8629416577344,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2A",
+        "Text": "đá An Nhơn Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4217036628164,
+          10.68010339471914,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2B",
+        "Text": "đá Triêm Đức - Cụm Hải Sâm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6259011193718,
+          10.54932286001256,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2C",
+        "Text": "bãi ngầm Đồng Cam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.790322847341,
+          10.91291938663119,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2D",
+        "Text": "bãi Cỏ Mây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7828549488017,
+          9.728104397389151,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2E",
+        "Text": "cụm Hồ Tràm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1592176543898,
+          10.78151824132472,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D2F",
+        "Text": "đá Nghĩa Hành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1914975397834,
+          9.84805104468071,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D30",
+        "Text": "đá Trung Lễ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3580914866383,
+          10.97911523800115,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D31",
+        "Text": "đá Vị Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5448800603262,
+          9.841300251841247,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D32",
+        "Text": "bãi đá Tri Lễ Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0922186564833,
+          11.08549477519963,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D33",
+        "Text": "đá Nhỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9580331539603,
+          9.956849488357497,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D34",
+        "Text": "đá Trà Khúc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2848262242045,
+          9.679655975469325,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D35",
+        "Text": "đá Tam Trung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1711088743263,
+          9.820190369911446,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D36",
+        "Text": "đảo An Bang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.8643878846922,
+          7.861559474037814,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D37",
+        "Text": "đá Châu Viên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7710943351126,
+          8.833664959515167,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D38",
+        "Text": "đảo Sơn Ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4454025829709,
+          10.34674144310493,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D39",
+        "Text": "đảo Ba Đình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3004430085624,
+          10.33919589153774,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3A",
+        "Text": "đảo Nam Yết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3273533407345,
+          10.151945974814,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3B",
+        "Text": "cụm Nam Yết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3447919205307,
+          10.26136300190281,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3C",
+        "Text": "đảo Bình Nguyên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.7590985483764,
+          10.82009243096509,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3D",
+        "Text": "đảo Bến Lạc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9425168231774,
+          11.05291028426596,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3E",
+        "Text": "đảo Song Tử Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3444833685234,
+          11.40217285154189,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D3F",
+        "Text": "đảo Song Tử Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1638544877028,
+          11.46261511098926,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D40",
+        "Text": "đảo Loai Ta Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2799693914476,
+          10.74117282285044,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D41",
+        "Text": "đảo Loai Ta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3791818563036,
+          10.64250179106243,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D42",
+        "Text": "đá Vĩnh Hợp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9429899185256,
+          11.0079470862421,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D43",
+        "Text": "hòn Tháp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6672818402383,
+          16.5644032433737,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D44",
+        "Text": "bãi Ngầm Óc Tai Voi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.13009434545,
+          16.08106710782002,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D45",
+        "Text": "đảo Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.3097120575708,
+          16.96309352930432,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D46",
+        "Text": "đảo Đá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.309692138305,
+          16.79988619786735,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D47",
+        "Text": "đảo Hoàng Sa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.5998670635492,
+          16.50569621055398,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D48",
+        "Text": "bãi Bình Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.141797400218,
+          16.73584248236688,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D49",
+        "Text": "bãi Cạn Gò Nổi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7070939683447,
+          16.76503684695885,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4A",
+        "Text": "bãi Ngầm Mắc Léc Phi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0861222747551,
+          15.84723075921563,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4B",
+        "Text": "Q u ầ n  đ ả o  H o à n g  S a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.9056689279685,
+          16.45264014949889,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4C",
+        "Text": "(Tp.Ðà Nẵng-Việt Nam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.9584975216556,
+          16.41072928504069,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4D",
+        "Text": "Q U Ầ N  Đ Ả O  T R Ư Ờ N G  S A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6969745232442,
+          10.21130612808888,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4E",
+        "Text": "(Tỉnh Khánh Hòa-Việt Nam)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.745008625445,
+          10.17138354489965,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "TruongSaHoangSa",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+        "Linetype": null,
+        "EntityHandle": "1D4F",
+        "Text": "hồ Sông Sắt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9016208600968,
+          11.83999561983802,
+          0.0
+        ]
+      }
+    }
+  ]
+}
