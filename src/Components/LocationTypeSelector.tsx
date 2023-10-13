@@ -1,14 +1,14 @@
 import ANNOTATION from "../assets/geojson/geojson/ANNOTATION.json";
-import BTB_RG from "../assets/geojson/geojson/BTB_RG_2023.5.18.json";
-import BVNL from "../assets/geojson/geojson/BVNL_2023.5.18.json";
-import CAM_KT from "../assets/geojson/geojson/Cam KT_2023.5.18.json";
+//import BTB_RG from "../assets/geojson/geojson/BTB_RG_2023.5.18.json";
+//import BVNL from "../assets/geojson/geojson/BVNL_2023.5.18.json";
+//import CAM_KT from "../assets/geojson/geojson/Cam KT_2023.5.18.json";
 import CAM_POINT from "../assets/geojson/geojson/cam_point_25072022_point.json";
-import CAM_REGION from "../assets/geojson/geojson/cam_region_25072022_region.json";
-import RAN from "../assets/geojson/geojson/Ran_2023.5.18.json";
+//import CAM_REGION from "../assets/geojson/geojson/cam_region_25072022_region.json";
+//import RAN from "../assets/geojson/geojson/Ran_2023.5.18.json";
 import TEN from "../assets/geojson/geojson/ten_.json";
 import VE_POINT from "../assets/geojson/geojson/ve_point_25072022.json";
-import VE_REGION from "../assets/geojson/geojson/ve_region_05062023_region.json";
-import VN_HC from "../assets/geojson/geojson/VN_HCtinh.json";
+//import VE_REGION from "../assets/geojson/geojson/ve_region_05062023_region.json";
+//import VN_HC from "../assets/geojson/geojson/VN_HCtinh.json";
 
 import { useState } from "react";
 
