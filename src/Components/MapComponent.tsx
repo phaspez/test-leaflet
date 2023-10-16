@@ -1,12 +1,17 @@
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
-import { useState, useEffect } from "react";
+
 import "leaflet/dist/leaflet.css";
+import useLocationManager from "./LocationContext";
+import { useEffect, useState } from "react";
 
-export interface LocationDetails {
-  locationData: any;
-}
+function MapComponent() {
+  const { selectedLocations, locations } = useLocationManager();
+  const [, setSelected] = useState(selectedLocations);
 
-function MapComponent({ locationData }: LocationDetails) {
+  useEffect(() => {
+    setSelected(selectedLocations);
+  }, [selectedLocations]);
+
   let styleOpt = [
     { color: "red", fillColor: "red" },
     { color: "blue", fillColor: "blue" },
@@ -27,17 +32,17 @@ function MapComponent({ locationData }: LocationDetails) {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
 
-        {locationData ? (
-          locationData.map((dat: any, idx: number) => (
-            <GeoJSON
-              data={dat}
-              pathOptions={styleOpt[idx % styleOpt.length]}
-              key={idx}
-            ></GeoJSON>
-          ))
-        ) : (
-          <></>
-        )}
+        {selectedLocations
+          ? selectedLocations.map((cond: boolean, idx: number) =>
+              cond ? (
+                <GeoJSON
+                  key={idx + "mapjson"}
+                  data={locations[idx]}
+                  pathOptions={styleOpt[idx % styleOpt.length]}
+                />
+              ) : undefined
+            )
+          : undefined}
       </MapContainer>
     </>
   );
