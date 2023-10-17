@@ -3,3 +3,11 @@
   width: 100%;
   height: 90vh;
 }
+
+.leaflet-marker-icon {
+  background-image: url("../src/assets/placeholder.png");
+}
+
+.leaflet-default-icon-path { /* used only in path-guessing heuristic, see L.Icon.Default */
+	background-image: url("../src/assets/placeholder.png");
+	}

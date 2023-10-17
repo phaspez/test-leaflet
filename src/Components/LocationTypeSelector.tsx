@@ -2,13 +2,8 @@ import { useState, useEffect } from "react";
 import useLocationManager from "./LocationContext";
 import "../App.css";
 
-export interface LocationsUpdater {
-  setLocations(locs: any): void;
-}
-
 function LocationTypeSelector() {
-  const { setLocations, count_locations, name_locations } =
-    useLocationManager();
+  const { setLocations, nameLocations, styleOpt } = useLocationManager();
   const [selected, setSelected] = useState<Array<boolean>>([
     false,
     false,
@@ -37,14 +32,15 @@ function LocationTypeSelector() {
     <>
       <h2>Select location type: </h2>
       <div className="grid grid-rows-4 gap-4">
-        {count_locations.map((value) => (
+        {nameLocations.map((value, idx) => (
           <div className="grid py-1 pt-10" key={value.toString()}>
-            <label htmlFor={value.toString()}>{name_locations[value]}</label>
+            <span style={{ color: styleOpt[idx].color }}> ■ </span>
+            <label htmlFor={value.toString()}>{value}</label>
             <input
               type="checkbox"
               id={value.toString()}
               className="checkbox"
-              onChange={() => toggleSelected(value)}
+              onChange={() => toggleSelected(idx)}
             />
           </div>
         ))}

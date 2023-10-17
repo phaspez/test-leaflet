@@ -10,16 +10,14 @@ import VE_POINT from "../assets/geojson/geojson/ve_point_25072022.json";
 import VE_REGION from "../assets/geojson/geojson/ve_region_05062023_region.json";
 import VN_HC from "../assets/geojson/geojson/VN_HCtinh.json";
 
-import { createContext, useContext, useState, useEffect } from "react";
+import { createContext, useContext, useState } from "react";
 
 export interface LocationManager {
-  getLocations(): Array<any>;
   setLocations(locs: Array<any>): void;
   locations: Array<any>;
-  locationDetails: Array<any>;
-  name_locations: Array<any>;
+  nameLocations: Array<any>;
   selectedLocations: Array<boolean>;
-  count_locations: Array<number>;
+  styleOpt: Array<any>;
 }
 
 export interface LocationDetails {
@@ -30,10 +28,9 @@ export interface LocationDetails {
 const LocationContext = createContext<LocationManager | undefined>(undefined);
 
 export const LocationContextProvider = (props: any) => {
-  const [selectedLocations, setSelectedLocations] = useState([]);
-  const [locationDetails, setLocationDetails] = useState<
-    Array<LocationDetails>
-  >([]);
+  const [selectedLocations, setSelectedLocations] = useState<Array<boolean>>(
+    []
+  );
 
   const locations = [
     ANNOTATION,
@@ -49,7 +46,21 @@ export const LocationContextProvider = (props: any) => {
     VN_HC,
   ];
 
-  const name_locations: Array<string> = [
+  let styleOpt = [
+    { color: "red", fillColor: "red" },
+    { color: "blue", fillColor: "blue" },
+    { color: "violet", fillColor: "violet" },
+    { color: "green", fillColor: "green" },
+    { color: "black", fillColor: "black" },
+    { color: "cyan", fillColor: "cyan" },
+    { color: "orange", fillColor: "orange" },
+    { color: "purple", fillColor: "purple" },
+    { color: "brown", fillColor: "brown" },
+    { color: "navy", fillColor: "navy" },
+    { color: "magenta", fillColor: "magenta" },
+  ];
+
+  const nameLocations: Array<string> = [
     "Annotation.geojson",
     "BTB_RG_2023.5.18.geojson",
     "BVNL_2023.5.18.geojson",
@@ -63,37 +74,16 @@ export const LocationContextProvider = (props: any) => {
     "VN_HCtinh.geojson",
   ];
 
-  const mapData = locations.map((val, idx) => {
-    return { name: name_locations[idx], data: val } as LocationDetails;
-  });
-
-  const count_locations = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
-  const getLocations = () => {
-    return locationDetails;
-  };
-
   const setLocations = (loc: any) => {
     setSelectedLocations(loc);
-    console.log("set loc: ", loc);
   };
 
-  useEffect(() => {
-    let loc = mapData.filter((val, i) => selectedLocations[i] && val);
-
-    console.log("selectedLocations: ", selectedLocations);
-    setLocationDetails(loc);
-    console.log(locationDetails);
-  }, [selectedLocations]);
-
   const contextValue = {
-    getLocations,
     setLocations,
     locations,
     selectedLocations,
-    locationDetails,
-    name_locations,
-    count_locations,
+    nameLocations,
+    styleOpt,
   } as LocationManager;
 
   return (

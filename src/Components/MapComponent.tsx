@@ -1,23 +1,25 @@
+// @ts-nocheck
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
-
-import "leaflet/dist/leaflet.css";
 import useLocationManager from "./LocationContext";
 import { useEffect, useState } from "react";
+import L from "leaflet";
+
+import "leaflet/dist/leaflet.css";
 
 function MapComponent() {
-  const { selectedLocations, locations } = useLocationManager();
+  const { selectedLocations, locations, styleOpt } = useLocationManager();
   const [, setSelected] = useState(selectedLocations);
 
   useEffect(() => {
     setSelected(selectedLocations);
   }, [selectedLocations]);
 
-  let styleOpt = [
-    { color: "red", fillColor: "red" },
-    { color: "blue", fillColor: "blue" },
-    { color: "green", fillColor: "green" },
-    { color: "black", fillColor: "black" },
-  ];
+  const pointToLayer = (feature, latlng) => {
+    return L.circleMarker(
+      latlng,
+      /*styleOpt[(getRandomInt(styleOpt.length), latlng)]*/ null
+    );
+  };
 
   return (
     <>
@@ -39,6 +41,7 @@ function MapComponent() {
                   key={idx + "mapjson"}
                   data={locations[idx]}
                   pathOptions={styleOpt[idx % styleOpt.length]}
+                  pointToLayer={pointToLayer}
                 />
               ) : undefined
             )
